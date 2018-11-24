@@ -1,0 +1,18 @@
+// Library
+@import "~bootstrap/scss/bootstrap";
+@import "./libs/fontawesome/fontawesome.scss";
+@import "./libs/fontawesome/solid.scss";
+@import "./libs/fontawesome/brands.scss";
+
+// Pages
+@import './pages/about-me.scss';
+@import './pages/contact.scss';
+@import './pages/home.scss';
+@import './pages/no-page.scss';
+@import './pages/portfolio.scss';
+
+// Shared
+@import './shared/footer.scss';
+@import './shared//header.scss';
+
+
