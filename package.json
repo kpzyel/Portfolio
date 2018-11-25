@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Webside creaded for promoting myself and present my skills and projects. ",
+  "description": "Website created for promoting myself and present my skills and projects. ",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",
@@ -17,7 +17,7 @@
   "keywords": [
     "Portfolio",
     "Skills",
-    "Projectts",
+    "Projects",
     "Lus",
     "Kamil"
   ],
@@ -52,10 +52,6 @@
     "webpack-dev-server": "^3.1.10"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.5.0",
-    "bootstrap": "^4.1.3",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.14.5",
-    "tether": "^1.4.5"
+    "bootstrap": "^4.1.3"
   }
 }
